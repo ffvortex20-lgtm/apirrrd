@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "blockedHosts": [
+    "host1",
+    "host2",
+    "host3"
+  ]
+}
