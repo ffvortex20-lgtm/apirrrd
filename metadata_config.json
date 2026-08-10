@@ -1,0 +1,9 @@
+{
+  "targetFiles": [
+    "libil2cpp.so",
+    "global-metadata.dat"
+  ],
+  "processingType": "MemoryPatchAndHook",
+  "skipIl2CppCheck": false,
+  "skipIntegrityCheck": false
+}
