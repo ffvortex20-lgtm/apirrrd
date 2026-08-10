@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
-  "enabled": true,
-  "configUrl": "https://raw.githubusercontent.com/ffvortex20-lgtm/apirrrd/main/config/hosts.json"
+  "verAddr": "https://raw.githubusercontent.com/ffvortex20-lgtm/apirrrd/main/localconfig.json",
+  "skipResourceDownload": false,
+  "fakeVersion": 2.0
 }
