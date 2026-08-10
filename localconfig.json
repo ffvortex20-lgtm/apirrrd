@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "status": "active",
+  "configVersion": 1,
+  "configUrl": "https://raw.githubusercontent.com/ffvortex20-lgtm/apirrrd/main/config/hosts.json",
+  "skipResourceDownload": false
+}
