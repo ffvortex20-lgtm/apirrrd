@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "blockedHosts": [
-    "host1",
-    "host2",
-    "host3"
+    "gin.freefireind.in",
+    "grtc.freefireind.in",
+    "ff-sdk-grtc.freefireind.in"
   ]
 }
